@@ -10,3 +10,4 @@ Fork this repostiry as a part of our Hacktoberfest efforts to learn Git and Gith
 - [Akash Dixit](https://github.com/Akash1Dixit)
 - [Himanshu Awasthi](https://github.com/IHackPy)
 - [Akash Deep](https://github.com/23akashdeep)
+- [Farzan Ekram](https://github.com/scorpion-kali)
