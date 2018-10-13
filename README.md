@@ -13,3 +13,4 @@ Fork this repostiry as a part of our Hacktoberfest efforts to learn Git and Gith
 - [Tushar Mittal](https://github.com/techytushar)
 - [Karan DefCon](https://github.com/DotSlashTX)
 - [Archit Awasthi](https://github.com/archit023)
+- [Farzan Ekram](https://github.com/scorpion-kali)
