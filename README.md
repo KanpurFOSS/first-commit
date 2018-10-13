@@ -6,4 +6,5 @@ Fork this repostiry as a part of our Hacktoberfest efforts to learn Git and Gith
 - [Hitanshu Sahu](https://github.com/Phantom-Cluster)
 - [Shubam Gaur](https://github.com/sumitsg10)
 - [Rishabh Srivastava](https://github.com/Keypuncher91)
-- [Rohit Motwani](https://github.com/rohittm) 
+- [Rohit Motwani](https://github.com/rohittm)
+- [Akash Dixit](https://github.com/Akash1Dixit)
