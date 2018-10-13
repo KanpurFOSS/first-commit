@@ -12,3 +12,4 @@ Fork this repostiry as a part of our Hacktoberfest efforts to learn Git and Gith
 - [Akash Deep](https://github.com/23akashdeep)
 - [Tushar Mittal](https://github.com/techytushar)
 - [Karan DefCon](https://github.com/DotSlashTX)
+- [Archit Awasthi](https://github.com/archit023)
