@@ -8,3 +8,4 @@ Fork this repostiry as a part of our Hacktoberfest efforts to learn Git and Gith
 - [Rishabh Srivastava](https://github.com/Keypuncher91)
 - [Rohit Motwani](https://github.com/rohittm)
 - [Akash Dixit](https://github.com/Akash1Dixit)
+- [Himanshu Awasthi](https://github.com/IHackPy)
