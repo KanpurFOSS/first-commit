@@ -16,3 +16,4 @@ Fork this repostiry as a part of our Hacktoberfest efforts to learn Git and Gith
 - [Farzan Ekram](https://github.com/scorpion-kali)
 - [Rohan Bajpai](https://github.com/bajpairohan6306)
 - [Himanshu Sachan](https://github.com/mahi2msd)
+- [Juan Ignacio Noli Villar](https://github.com/jnvillar)
