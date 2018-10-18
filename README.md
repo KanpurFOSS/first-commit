@@ -18,4 +18,5 @@ Fork this repostiry as a part of our Hacktoberfest efforts to learn Git and Gith
 - [Himanshu Sachan](https://github.com/mahi2msd)
 - [Juan Ignacio Noli Villar](https://github.com/jnvillar)
 - [Hammad Mashkoor](https://github.com/hammadmashkoor)
+- [Josh Edewa](https://github.com/edewajosh)
 - [Soumya Ranjan](https://github.com/soumya-ranjan7)
