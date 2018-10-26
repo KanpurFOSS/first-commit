@@ -21,4 +21,4 @@ Fork this repostiry as a part of our Hacktoberfest efforts to learn Git and Gith
 - [Hammad Mashkoor](https://github.com/hammadmashkoor)
 - [Josh Edewa](https://github.com/edewajosh)
 - [Soumya Ranjan](https://github.com/soumya-ranjan7)
-
+- [Pete Madis](https://github.com/petemadis)
