@@ -23,4 +23,5 @@ Fork this repostiry as a part of our Hacktoberfest efforts to learn Git and Gith
 - [Soumya Ranjan](https://github.com/soumya-ranjan7)
 - [Om Prakash Paliwal](https://github.com/BalajiTechs)
 - [Worawat Chueajedton](https://github.com/WorawatCh)
+- [Gene Pride](https://github.com/genepride)
 - [Harsh Trivedi](https://github.com/harsh98trivedi)
