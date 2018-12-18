@@ -29,3 +29,4 @@ Fork this repostiry as a part of our Hacktoberfest efforts to learn Git and Gith
 - [Peachy Butt](https://github.com/cjjp-sushi)
 - [Max Johnson](https://github.com/Chiefautoparts)
 - [Pete Madis](https://github.com/petemadis)
+- [Raj Maurya](https://github.com/raj-maurya)
