@@ -32,3 +32,4 @@ Fork this repostiry as a part of our Hacktoberfest efforts to learn Git and Gith
 - [Pete Madis](https://github.com/petemadis)
 - [Raj Maurya](https://github.com/raj-maurya)
 - [bornjre](https://github.com/bornjre)
+- [kodak R.Vellapuly](https://github.com/hackTheFest)
